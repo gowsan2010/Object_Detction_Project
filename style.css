@@ -1,0 +1,10 @@
+.nav_btn{
+    background-color: white;
+    border-radius: 50px;
+    font-size: xx-large;
+    width: 400px;
+    border-width: 0px;
+}
+.nav_btn:hover{
+    background-color:lavender;
+}
