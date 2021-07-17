@@ -1,0 +1,42 @@
+.info{
+    width: 100%;
+    background-color: cyan;
+    border-radius: 10px;
+}
+.info:hover{
+    background-color: turquoise;
+}
+.black{
+    background-color: black;
+    color: white;
+    margin-left: 95%;
+    border-radius: 5px;
+    width: 70px;
+    height: 30px;
+}
+.black:hover{
+    background-color: gray;
+}
+.red{
+    background-color: magenta;
+    color: white;
+    border-radius: 10px;
+}
+.red:hover{
+    background-color: darkred;
+}
+.green{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+.green:hover{
+    background-color: seagreen;
+}
+canvas{
+    box-shadow: 5px 5px 5px black;
+    border-radius: 10px;
+    border: blanchedalmond;
+    border-width: 5px;
+}
